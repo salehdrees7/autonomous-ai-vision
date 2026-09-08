@@ -1,0 +1,22 @@
+
+AI Pro Autonomous Vision System - Benchmark Summary
+
+Model used: yolov8n.pt
+Benchmark duration: 60 seconds
+Confidence threshold: 0.3
+
+Average FPS: 17.34
+Average inference time: 43.64 ms
+Average CPU usage: 89.12%
+Average RAM usage: 35.56%
+Total unique objects tracked: 20
+
+Generated files:
+- pro_tracking_results.csv
+- pro_fps_over_time.png
+- pro_inference_time.png
+- pro_cpu_usage.png
+- pro_ram_usage.png
+- pro_objects_visible.png
+- pro_unique_ids.png
+- pro_movement_heatmap.png
